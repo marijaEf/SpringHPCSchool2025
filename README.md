@@ -2,4 +2,4 @@
 Website: https://supercomputing.tue.nl/hpc-school/
 
 ## Schedule
-https://supercomputing.tue.nl/hpc-school/
+Up-to-date schedule is available at: https://supercomputing.tue.nl/hpc-school/
